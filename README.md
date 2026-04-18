@@ -153,6 +153,7 @@ More specific to ZK:
 - [Mir Protocol](https://mirprotocol.org/blog/Introducing-Mir)
 - [Aleo: A SDK for Zero-Knowledge Transactions](https://github.com/AleoHQ/aleo)
 - [Iron Fish: the universal privacy layer for crypto](https://ironfish.network/)
+- [Midnight: Privacy-enhancing blockchain with programmable and selective disclosure](https://midnight.network/)
 - [Mina: a payment system using a succinct blockchain](https://minaprotocol.com/wp-content/uploads/technicalWhitepaper.pdf)
 - [Celo: EVM compatible proof-of-stake layer-1](https://celo.org/) and their [Light clients with ZKPs](https://zeroknowledge.fm/93-2/)
 - [Zeeka Network: a light and scalable blockchain using ZKPs](https://hackmd.io/_Sw5u2lUR9GfBV5vwtoMSQ#Zeeka-Network---Whitepaper)
